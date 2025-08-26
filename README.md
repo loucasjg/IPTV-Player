@@ -1,3 +1,5 @@
+[EN]
+
 # IPTV Player
 
 A simple IPTV Player that supports **M3U playlists**.  
@@ -16,21 +18,7 @@ Stream and manage your favorite TV channels easily.
    pip install -r requirements.txt
 3. Run the application from the Command Prompt to enable logs:
    ```bash
-   python main.py 
-
-## 🚀 Usage
-```bash
-# Launch the program from CMD
-python main.py
-
-# Load your .m3u file inside the player
-# Start streaming your channels with real-time logs displayed in the terminal
-
-## 📂 Project StructureIPTV-Player/
-│-- main.py          # Entry point
-│-- requirements.txt # Dependencies
-│-- README.md        # Project documentation
-│-- LICENSE          # License file
+   python main.py
 
 ## 📜 License
 This project is licensed under the MIT License.
