@@ -26,7 +26,7 @@ python main.py
 # Load your .m3u file inside the player
 # Start streaming your channels with real-time logs displayed in the terminal
 
-IPTV-Player/
+## 📂 Project StructureIPTV-Player/
 │-- main.py          # Entry point
 │-- requirements.txt # Dependencies
 │-- README.md        # Project documentation
