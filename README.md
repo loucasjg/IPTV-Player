@@ -18,18 +18,20 @@ Stream and manage your favorite TV channels easily.
    ```bash
    python main.py 
 
-🚀 Usage
-Launch the program from CMD as shown above.
-Load your .m3u file.
-Start streaming your channels with real-time logs displayed in the terminal.
+## 🚀 Usage
+```bash
+# Launch the program from CMD
+python main.py
 
-📂 Project Structure
+# Load your .m3u file inside the player
+# Start streaming your channels with real-time logs displayed in the terminal
+
 IPTV-Player/
 │-- main.py          # Entry point
 │-- requirements.txt # Dependencies
 │-- README.md        # Project documentation
 │-- LICENSE          # License file
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 See the LICENSE file for details.
