@@ -12,7 +12,7 @@ Stream and manage your favorite TV channels easily.
 - Command-line logs for debugging
 
 ## 📥 Installation
-1. Download the latest release
+1. Download the latest release of FFmpeg and add it to path
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
