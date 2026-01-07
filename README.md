@@ -1,4 +1,3 @@
-[EN]
 
 # IPTV Player
 
